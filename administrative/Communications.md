@@ -1,4 +1,4 @@
-#Communications
+# Communications
 
 1. Preferred way to reach everyone individually:
     * Anna:
